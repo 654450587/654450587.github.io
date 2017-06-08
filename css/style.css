@@ -40,3 +40,7 @@
 .ff{
 	background:url(../img/006.jpg);
 }
+.aa,.bb,.cc,.dd,.ee,.ff{
+	background-position: center;
+	background-size: cover;
+}
