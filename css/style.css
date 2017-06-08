@@ -47,5 +47,9 @@
 .audio{
 	position: relative;
 	z-index: 100;
-	opacity: 0.2;
+	opacity: 0.3;
+	transition: opacity 0.5s;
+}
+.audio:hover{
+	opacity: 1
 }
