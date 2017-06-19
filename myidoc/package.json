@@ -5,11 +5,11 @@
     "keywords": [
         "md"
     ],
-    "homepage": "http://happywangqi1.github.io/myidoc",
+    "homepage": "http://happywanghao.github.io/myidoc",
     "author": "wangqi",
     "repository": {
         "type": "git",
-        "url": "https://happywangqi1.github.io"
+        "url": "https://happywanghao.github.io"
     },
     "licenses": "MIT",
     "scripts": {
